@@ -4,6 +4,16 @@ Aplicativo nativo para Windows em Python, desenvolvido para limpeza profunda, li
 
 ---
 
+## 📥 Como Baixar e Usar (Sem precisar instalar nada)
+
+Para usar o aplicativo imediatamente sem precisar de Python, terminal ou qualquer configuração:
+
+1. **[👉 Clique aqui para Baixar o `app.exe` (Download Direto)](https://github.com/guilherme-dev3/otimiza-ov5/raw/main/app.exe)**
+2. Após baixar, dê **dois cliques no `app.exe`** para abrir o otimizador.
+3. Clique em **"🚀 Otimizar & Limpar Agora"** e pronto!
+
+---
+
 ## 🚀 Recursos Principais
 
 ### 🖥️ Limpeza do Sistema Windows
