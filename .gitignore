@@ -11,5 +11,7 @@ env/
 # IDE and OS files
 .vscode/
 .idea/
-Thumbs.db
-Desktop.ini
+# Build artifacts
+build/
+dist/
+*.spec
